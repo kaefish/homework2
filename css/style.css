@@ -27,7 +27,7 @@ img{
 }
 
 div{
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
 }
 
@@ -52,7 +52,7 @@ div{
 
 #yellow h2{
     color: #000000;
-    text-shadow: 5px 5px 2px #c732c7;
+    text-shadow: 5px 5px 2px #c7e2c7;
 }
 
 #green {
