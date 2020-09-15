@@ -20,9 +20,9 @@ p {
 }
 
 img{
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    display: block;
     width: 525px;
 }
 
